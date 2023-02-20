@@ -10,3 +10,7 @@ NOTEBOOK 1 - SegmentationLearning.ipynb : Used to build a Unet model with a VGG1
 NOTEBOOK 2 - SegmentAndPathFinding.ipynb : Used to load the trained weights of the Unet Model, finds out the point obstacles in the aerial picture and uses a PRM Planner to plot a path through it, and translates it into instructions as well as a visual representation.
 
 Dataset Used: http://dronedataset.icg.tugraz.at
+
+![alt text](https://https://github.com/TheBuffer/AerialPathPlanningExperiment/blob/main/aerialpicture.png?raw=true)
+
+![alt text](https://https://github.com/TheBuffer/AerialPathPlanningExperiment/blob/main/roadplot.png?raw=true)
