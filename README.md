@@ -11,6 +11,5 @@ NOTEBOOK 2 - SegmentAndPathFinding.ipynb : Used to load the trained weights of t
 
 Dataset Used: http://dronedataset.icg.tugraz.at
 
-![alt text](https://https://github.com/TheBuffer/AerialPathPlanningExperiment/blob/main/aerialpicture.png?raw=true)
-
-![alt text](https://https://github.com/TheBuffer/AerialPathPlanningExperiment/blob/main/roadplot.png?raw=true)
+![aerialpicture](https://user-images.githubusercontent.com/62299190/220090323-e13dd088-431a-4dca-bc29-a34706087048.png)            
+![roadplot](https://user-images.githubusercontent.com/62299190/220090388-bc8c3238-1293-4097-90ea-2c355022875c.png)
